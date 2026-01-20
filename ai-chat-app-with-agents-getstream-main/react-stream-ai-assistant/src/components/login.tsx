@@ -49,7 +49,7 @@ export const Login: React.FC<LoginProps> = ({ onLogin }) => {
             <Bot className="h-6 w-6 text-primary-foreground" />
           </div>
           <CardTitle className="text-xl font-semibold">
-            Welcome to AI Assistant
+            Welcome to Mayocodes
           </CardTitle>
           <CardDescription className="text-sm text-muted-foreground">
             Enter your username to start chatting with your AI assistant.
